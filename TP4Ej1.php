@@ -1,0 +1,2 @@
+
+// Escriba un programa con una función que tome como parámetro dos enteros, los sume y devuelva como resultado la suma. El programa deberá pedir al usuario los dos números, luego llamar a la función con los números leídos como argumentos y por último informar al usuario el valor de la suma.
